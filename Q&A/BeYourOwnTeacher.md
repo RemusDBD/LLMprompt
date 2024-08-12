@@ -14,7 +14,7 @@ Here's the paragraph : "[The text of paragraph that the user will provide]"
 
 ### Continue/Final Prompt
 
-Right now do you think you can still generate any more question purely depends on the content itself nothing else?
+Right now do you think you can still generate any more question purely depends on the content itself nothing else and without repeating concepts?
 
 `If yes:`
 
