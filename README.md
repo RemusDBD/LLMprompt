@@ -1,5 +1,4 @@
 # LLMprompt
-LLMprompt
 
 ## Overview
 
