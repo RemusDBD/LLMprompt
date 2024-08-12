@@ -9,3 +9,6 @@ This repository contains a curated collection of my personal prompts designed fo
 - [Q&A](#Q&A-Prompts)
 
 ---
+## Q&A
+
+- [BeYourOwnTeacher](https://github.com/RemusDBD/LLMprompt/blob/main/Q%26A/BeYourOwnTeacher.md): Generate question from your provided content.
