@@ -11,4 +11,4 @@ This repository contains a curated collection of my personal prompts designed fo
 ---
 ## Q&A
 
-- [BeYourOwnTeacher](https://github.com/RemusDBD/LLMprompt/blob/main/Q%26A/BeYourOwnTeacher.md): Generate question from your provided content.
+- [BeYourOwnTeacher](https://github.com/RemusDBD/LLMprompt/blob/main/Q%26A/BeYourOwnTeacher.md): Generate question based on your provided content. Good for self-learner with any book/studies resource.
