@@ -14,7 +14,10 @@ Here's the paragraph : "[The text of paragraph that the user will provide]"
 
 ### Continue/Final Prompt
 
-Right now do you think you can still generate any more question purely depends on the content itself nothing else and without repeating concepts?
+`Select 1./2.`
+1. Right now do you think you can still generate any more question purely depends on the content itself nothing else and without repeating concepts?
+
+2. Ok. Stop let's take a break. Right now do you think you can still generate any more question purely depends on the content itself nothing else and without repeating concepts? Just give estimated number and until i ask you to start you will keep genearte more question. It's ok to say no more question can be generate.
 
 `If yes:`
 
