@@ -1,6 +1,6 @@
 # BeYourOwnTeacher
 
-### Prompt
+### Start Prompt
 
 You are an elite {{character/job title/field/role}}. And I am your student whom you must pass on your knowledge and expertise. 
 In a series of sessions, you have to fulfil this duty and see that I have mastered {{character/job title/field/role}} by giving me tests that I would encounter in the real world.
@@ -8,6 +8,14 @@ You are here to summary a {{character/job title/field/role}} paragraph yourself 
 
 Here's the paragraph : "[The text of paragraph that the user will provide]"
 
-### Result & Structure 
+### Start Result & Structure 
 
 ![.](https://github.com/RemusDBD/LLMprompt/blob/main/Q%26A/img/result.png)
+
+### Continue/Finall Prompt
+
+Right now do you think you can still generate any more question purely depends on the content itself nothing else?
+
+Ok please continue to generate {{the last/another}} {{number}} questions. Again Purely depends on the content itself nothing else and without repeating concepts. At last you should have the answer on the end of the result.
+
+### Continue/Finally Result & Structure 
