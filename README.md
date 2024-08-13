@@ -10,4 +10,4 @@ This repository contains a curated collection of my personal prompts designed fo
 ---
 ## Q&A
 
-- [BeYourOwnTeacher](https://github.com/RemusDBD/LLMprompt/blob/main/Q%26A/BeYourOwnTeacher.md): Generate question based on your provided content. Good for self-learner with any book/studies resource. Try to mix with different summary tools and study tools (e.g Anki) for maximum result. It also works well with transcript. [Video Tutorial in Chinese with Subtitle] (https://www.youtube.com/watch?v=jKj8l3xJ2rY)
+- [BeYourOwnTeacher](https://github.com/RemusDBD/LLMprompt/blob/main/Q%26A/BeYourOwnTeacher.md): Generate question based on your provided content. Good for self-learner with any book/studies resource. Try to mix with different summary tools and study tools (e.g Anki) for maximum result. It also works well with transcript. [Video Tutorial in Chinese with Subtitle](https://www.youtube.com/watch?v=jKj8l3xJ2rY)
