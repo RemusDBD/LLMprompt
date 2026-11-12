@@ -23,4 +23,4 @@ Find back a video from cache thumbnail based on the quote you remember from who 
 ## Neural Network Visualization
 
 - [Mermaid Wrapper](NeuralNetworkVisualization/MermaidWrapper.md)
-Neural Networ kVisualization for LLM in run mermaid wrapper inside the backend. Work at Qwen4-Max-Preview.
+Neural Network Visualization for LLM in run mermaid wrapper inside the backend. Work at Qwen4-Max-Preview.
