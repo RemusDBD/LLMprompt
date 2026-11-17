@@ -1,5 +1,4 @@
 # LLMprompt
-![.](https://github.com/RemusDBD/LLMprompt/blob/main/img/thumbnail.jpg)
 ## Overview
 
 This repository contains a curated collection of my personal prompts designed for various large language models (LLMs) like Perplexity AI. These prompts cover a wide range of applications.
