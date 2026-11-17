@@ -4,9 +4,9 @@
 This repository contains a curated collection of my personal prompts designed for various large language models (LLMs) like Perplexity AI. These prompts cover a wide range of applications.
 ## Table of Contents
 
-- [Q&A](#Q&A-Prompts)
-- [Search](#Search-Prompts)
-- [Neural Network Visualization](#Neural-Network-Visualization-Prompts)
+- [Q&A](#qa)
+- [Search](#search)
+- [Neural Network Visualization](#neural-network-visualization)
 
 ---
 ## Q&A
